@@ -33,7 +33,7 @@ if __name__ == "__main__":
     import random
     import time
 
-    points = ReadPlyPoint('Data/test1.ply')
+    points = ReadPlyPoint('Data/6.ply')
 
     # pre-processing
     #points = RemoveNan(points)
